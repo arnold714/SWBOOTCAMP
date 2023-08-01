@@ -1,4 +1,4 @@
-# SWBOOTCAMP
+# K-SOFTWARE EMPOWERMENT BOOTCAMP
 <div align="center">
     <img width="300" src="src/keb.png" alt="{Logo}">
     <br />
